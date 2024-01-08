@@ -1,0 +1,18 @@
+1- A tutorial about finetuning the BERT for stance detection. This tuorial includes also LLM prompting which is ot our case for project but cool to learn.
+https://arxiv.org/pdf/2307.15331.pdf
+
+2- Sentiment Analysis tudy of YouTube comments with BERT transfer learning (Fine-Tuning). They tried 3 experiments with unbalanced and balanced dataset for comparing accuracies. You dont need to test your fietuned model for your project with different experiments. You only need to use your model with some computational socail science hypothesis testing. So just create your fine tuned model and use it with an unlabled dataset and try to findout some exploratory results.
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9650096&casa_token=W6xuJfJ4c_cAAAAA:7y7YUqWVOnAAsCYtKQaOJ_m-l8DqJv0bNO25NK2X8-YM7lxEmm2niFpLdJbrlFUgJ5_kKxZ6B94&tag=1
+
+
+3- Acomperative study on finetuning the social media data. They compared Twitter and Reddit data sources:
+
+https://www.proquest.com/docview/2730435007?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals
+
+4- a political ideology detection methodology study which is interesting though it is not directed on bert and finetuning. Just look at the experimental setup and results parts in which authors discuss the difference between liberals and conservatives.
+https://www.ijcai.org/Proceedings/2017/0510.pdf
+
+
+5- authors used bert model to detec the attitudes towards politicians. they have 2 main hypothessis to test about Russia-Ukraine case:
+https://www.atlantis-press.com/article/125966702.pdf
