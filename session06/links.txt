@@ -1,0 +1,16 @@
+drug opinions:
+https://datalore.jetbrains.com/notebook/3nUgvlbXJQCZenwfnYjRrh/zZTYjNAtlMZtJQAPi2gOOL
+
+Austria german dataset
+https://datalore.jetbrains.com/notebook/3nUgvlbXJQCZenwfnYjRrh/HIIQKOcfjxeAtPGNYoE5u6
+
+dem-rep tweets
+https://datalore.jetbrains.com/notebook/3nUgvlbXJQCZenwfnYjRrh/G7pSOcxYgTNsAAjrn60xQt
+
+model.pkl (435MB):
+https://drive.google.com/file/d/1-aK9DYp_qQlc4Sn51GJBABc9KrKaotYC/view?usp=sharing
+
+
+https://www.kaggle.com/
+
+https://data.aussda.at/
